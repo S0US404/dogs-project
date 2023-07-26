@@ -1,4 +1,3 @@
-import { func } from "prop-types";
 import React from "react";
 
 const types = {
@@ -7,6 +6,12 @@ const types = {
       /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i,
     message: "Preencha um email valido",
   },
+  //   password: {
+  //     regex:
+  //       /^(\S)(?=.*[0-9])(?=.*[A-Z])(?=.*[a-z])(?=.*[~`!@#$%^&*()--+={}\[\]|\\:;"'<>,.?/_₹])[a-zA-Z0-9~`!@#$%^&*()--+={}\[\]|\\:;"'<>,.?/_₹]{10,16}$/,
+  //     message:
+  //       "Maximum 20 characters At least one uppercase character At least one lowercase character  At least one digit At least one special character",
+  //   },
 };
 
 const useForm = (type) => {
