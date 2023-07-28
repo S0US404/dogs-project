@@ -11,7 +11,7 @@ const ProtectedRoute = (props) => {
         <Route {...props} />;
       </Routes>
     );
-  else if (login === false) return <Navigate to="/login" />;
+  else if (login === false) return;
   else return null;
 };
 

@@ -32,7 +32,7 @@ const LoginCreate = () => {
       <form onSubmit={handleSubmit}>
         <Input label="Usuario" type="text" name="username" {...username} />
         <Input label="Email" type="email" name="email" {...email} />
-        <Input label="Password" type="text" name="password" {...password} />
+        <Input label="Password" type="password" name="password" {...password} />
         {loading ? (
           <Button disabled>Cadastrando...</Button>
         ) : (
