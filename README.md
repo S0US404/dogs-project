@@ -22,5 +22,11 @@ Durante o desenvolvimento deste projeto, aprendi e apliquei as seguintes habilid
 
 #
 
+##
+
+npm start
+
+## Credenciais
+
 Username: dog
 Password: dog
