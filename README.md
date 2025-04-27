@@ -1,32 +1,107 @@
-## Sobre
 
-Dogs é uma rede social para cachorros, onde os usuários podem postar fotos dos seus pets. O projeto foi desenvolvido durante o curso de React na plataforma Origamid, onde adquiri diversas habilidades essenciais para o desenvolvimento front-end.
+# 🐶 Dogs Social Media Project
 
-#
+Welcome to **Dogs** — a ReactJS-based project built as part of my front-end development studies. It simulates a mini social network focused on dogs, allowing users to register, login, post pictures, and interact.
 
-## Habilidades Aprendidas
+This project is a demonstration of my technical skills and passion for developing clean, scalable, and responsive web applications.
 
-Durante o desenvolvimento deste projeto, aprendi e apliquei as seguintes habilidades:
+---
 
-- React: Criação de componentes, gerenciamento de estado com Hooks, utilização de Context API para compartilhamento de estados globais.
+## ✨ Features
 
-- JavaScript (ES6+): Manipulação de arrays, objetos, funções assíncronas com async/await, entre outras funcionalidades modernas do JavaScript.
-- HTML5 e CSS3: Estruturação semântica do HTML e estilização avançada com CSS, incluindo responsividade e design adaptativo.
-- Fetch API: Realização de requisições HTTP para consumo de APIs RESTful.
-- React Router: Implementação de rotas dinâmicas e navegação entre páginas.
-- Autenticação: Implementação de fluxos de login e criação de conta, gerenciamento de tokens de autenticação.
-- Manipulação de Imagens: Upload e exibição de imagens postadas pelos usuários.
-- Animações: Criação de animações e transições suaves para uma melhor experiência do usuário.
-- Testes: Conhecimento básico sobre como testar componentes e funcionalidades.
-- Gerenciamento de Projetos: Configuração e gerenciamento do projeto utilizando npm scripts e versionamento com Git.
+- **Authentication System** (Login, Registration)
+- **REST API Integration**
+- **Protected Routes** (Private pages after login)
+- **Photo Upload and Management**
+- **User Profile Pages**
+- **Responsive Design**
+- **Loading, Error, and Feedback States**
+- **Clean Code and Modular Components**
 
-#
+---
 
-##
+## 📊 Technologies Used
 
+- **ReactJS** (Functional Components + Hooks)
+- **React Router DOM** (Routing and Protected Routes)
+- **Context API** (Authentication State Management)
+- **Custom Hooks** (Code Reusability)
+- **CSS Modules** (Scoped and maintainable styling)
+- **Fetch API** (for backend communication)
+- **Form Validation** (Basic user input handling)
+
+---
+
+## 🔧 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/S0US404/dogs-project.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd dogs-project
+```
+
+3. Install the dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
 npm start
+```
 
-## Credenciais
+The app will be running at `http://localhost:3000`
 
-Username: dog
-Password: dog
+---
+
+## 🔍 Skills Demonstrated
+
+- Building a fully functional **SPA (Single Page Application)**
+- Implementing **Authentication and Authorization** flows
+- **API Data Fetching** and **State Management**
+- Creating **Protected Routes** using **React Router**
+- Using **CSS Modules** for scoped and clean styling
+- Structuring components for **reusability** and **scalability**
+- Handling **errors**, **loading states**, and **user feedback** professionally
+- **Best practices** in React project setup and code organization
+
+---
+
+## 🌟 Project Goals
+
+This project was created to:
+
+- Practice real-world React development patterns
+- Build an application simulating a real client request
+- Improve API integration and front-end security skills
+- Strengthen responsive design techniques
+
+---
+
+## 🌍 Live Demo
+
+Coming soon!
+
+---
+
+## 👨‍💼 About Me
+
+I'm Iliano Sousa, a Front-End Web Developer passionate about creating seamless user experiences through modern web technologies.
+
+- ✨ Skills: ReactJS, Next.js, TypeScript, APIs Integration, Linux, Networking, and Cybersecurity.
+- 🌐 LinkedIn: [linkedin.com/in/iliano-sousa](https://linkedin.com/in/iliano-sousa)
+- 📉 Portfolio: (Coming Soon)
+
+Feel free to reach out for collaborations or job opportunities!
+
+---
+
+## ❤️ Thank You for Visiting!
